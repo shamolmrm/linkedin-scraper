@@ -1,0 +1,24 @@
+
+# --- publish hygiene ---
+node_modules/
+build/
+dist/
+dist-package/
+release/
+.next/
+out/
+.dart_tool/
+.gradle/
+android/.gradle/
+android/app/build/
+ios/Pods/
+ios/.symlinks/
+**/DerivedData/
+.env
+.env.local
+.env.*.local
+.claude/
+CLAUDE.md
+.DS_Store
+Thumbs.db
+
